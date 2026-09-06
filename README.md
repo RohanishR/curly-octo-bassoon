@@ -1,4 +1,3 @@
-# curly-octo-bassoon
 # 🎯 Arduino-Based Motion-Tracking Turret
 
 A smart servo-powered turret that detects nearby objects and "locks on" using an ultrasonic sensor, laser diode, LED, and buzzer. Built using the Arduino UNO R4 Minima and designed for DIY robotics, automation, and embedded systems exploration.
